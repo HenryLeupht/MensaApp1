@@ -3,6 +3,7 @@ class AuthService {
   // Dummy users
   final Map<String, String> _users = {
     'admin': 'admin123',
+
     'user': 'user123',
   };
 
